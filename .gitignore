@@ -1,0 +1,56 @@
+```
+# Next.js build output
+.next/
+
+# Dependencies
+node_modules/
+
+# Environment variables
+.env.local
+.env
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Build outputs
+dist/
+build/
+target/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+
+# Coverage directory used by tools like istanbul
+coverage/
+*.lcov
+
+# TypeScript cache
+*.tsbuildinfo
+
+# Yarn Integrity file
+.yarn-integrity
+
+# dotenv environment variables file
+.env
+
+# next-env.d.ts and other generated types
+next-env.d.ts
+.next/types/
+
+# Local files
+*.local
+```
